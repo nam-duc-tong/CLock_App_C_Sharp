@@ -1,0 +1,9 @@
+F:\637849TDN\clockcirle\clockcirle\bin\Debug\clockcirle.exe.config
+F:\637849TDN\clockcirle\clockcirle\bin\Debug\clockcirle.exe
+F:\637849TDN\clockcirle\clockcirle\bin\Debug\clockcirle.pdb
+F:\637849TDN\clockcirle\clockcirle\obj\Debug\clockcirle.csprojAssemblyReference.cache
+F:\637849TDN\clockcirle\clockcirle\obj\Debug\clockcirle.Form1.resources
+F:\637849TDN\clockcirle\clockcirle\obj\Debug\clockcirle.csproj.GenerateResource.cache
+F:\637849TDN\clockcirle\clockcirle\obj\Debug\clockcirle.csproj.CoreCompileInputs.cache
+F:\637849TDN\clockcirle\clockcirle\obj\Debug\clockcirle.exe
+F:\637849TDN\clockcirle\clockcirle\obj\Debug\clockcirle.pdb
